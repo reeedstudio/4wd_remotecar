@@ -23,8 +23,8 @@
 #include <RFBeeSendRev.h>
 #include <EEPROM.h>
 
-#define MAXSPEED        30
-#define MAXSPEEDN       -30
+#define MAXSPEED        80
+#define MAXSPEEDN       -80
 
 #define VAL1MIN      -263
 #define VAL1MAX       263
